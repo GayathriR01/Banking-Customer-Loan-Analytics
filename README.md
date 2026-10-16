@@ -30,5 +30,5 @@ To clean, analyze, and visualize banking data to identify loan performance patte
 
 ## Dashboard Preview
 
-![Banking Customer & Loan Analytics Dashboard](dashboard.png)
+![Banking Customer & Loan Analytics Dashboard](Dashboard.png)
 
