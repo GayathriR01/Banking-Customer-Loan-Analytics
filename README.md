@@ -11,6 +11,7 @@ This project analyzes banking customer and loan data using Excel for data cleani
 ## Project Files
 - `Cleaned_Banking_Data.xlsx` – Cleaned and prepared dataset
 - `project.twbx` – Tableau dashboard workbook
+- `Dashboard.png` - Project dashboard preview included in the repository files
 
 ## Dashboard Features
 - Customer and loan KPIs
@@ -24,6 +25,12 @@ This project analyzes banking customer and loan data using Excel for data cleani
 - Total Loan Amount: 25,330,182,244
 - Average Credit Score: 718.3
 - Average Interest Rate: 12.78
+
+## Skills Demonstrated
+- **Data Cleaning & Preprocessing:** Microsoft Excel
+- **Data Visualization:** Tableau
+- **Dashboard Development:** KPIs, charts, and interactive filters
+- **Data Analysis:** Customer and loan performance analysis
 
 ## Objective
 To clean, analyze, and visualize banking data to identify loan performance patterns and generate meaningful business insights.
